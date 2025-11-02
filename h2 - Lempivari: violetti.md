@@ -25,7 +25,7 @@
 ### Tuskan Pyramidi (Pyramid of Pain)
 
 - Pyramidi luokittelee indikaattorityypit, ja kuvaa kuinka paljon ne vaikeuttavat hyökkääjän toimia, kun kyseiset indikaattorit estetään.
-- Tavoitteena tehdä hyökkäyksestä niin vaikeaa, että hyökkääjä luovuttaa.
+- Tavoitteena tehdä hyökkäyksestä niin vaikeaa, että hyökkääjä mieluummin luovuttaa, kuin etsii vaihtoehtoisia reittejä.
 
 ### Timanttimalli (Diamond Model)
 
