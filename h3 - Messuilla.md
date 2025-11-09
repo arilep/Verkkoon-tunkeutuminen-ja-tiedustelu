@@ -85,6 +85,8 @@ https://www.rsa.com/rsa-ishield-key-2-series/
 
 Blancco. Data Erasure Software for Enterprises, ITAD & Mobile. https://blancco.com/
 
+Karvinen, T. 26.3.2025. Verkkoon tunkeutuminen ja tiedustelu. https://terokarvinen.com/verkkoon-tunkeutuminen-ja-tiedustelu/
+
 RSA. iShield Key 2 Series. https://www.rsa.com/rsa-ishield-key-2-series/
 
 YesWeHack. Bug Bounty Report 2025. https://www.yeswehack.com/news/yeswehack-bug-bounty-report-2025
