@@ -22,7 +22,7 @@
 
 ## a) Tarkastele käytössäsi olevia RFID tuotteita, mieti miten hyvin olet suojautunut RFID urkinnalta?
 
-Mielestäni olen melko hyvin varautunut urkinnan varalta. Tällä hetkellä päivittäin mukana kulkevia RFID tuotteita, joita kannan mukanani ovat ainoastaan puhelin, plussa-kortti, ajokortti ja pankkikortti. Avaimissa ei ole RFID tekniikkaa, eikä minulla ole kulkulätkiä tai muita älylaitteita.
+Mielestäni olen melko hyvin varautunut urkinnan varalta. Tällä hetkellä päivittäin mukana kulkevia RFID tuotteita, joita kannan mukanani ovat ainoastaan puhelin, plussa-kortti, ajokortti ja pankkikortti. Avaimissani ei ole RFID tekniikkaa, eikä minulla ole kulkulätkiä tai muita älylaitteita.
 
 Kaikkia kortteja ja puhelinta säilytän puhelinkotelossa, jossa on RFID-suojaus. Puhelimeni NFC ominaisuutta käytän todella harvoin, ja tällöinkin otan sen pois käytöstä heti kun en tarvitse sitä enää.
 
