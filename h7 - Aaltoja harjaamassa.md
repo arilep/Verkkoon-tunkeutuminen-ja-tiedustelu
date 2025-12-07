@@ -230,9 +230,11 @@ Otin vertailukohdaksi valonnopeuden, joka on 299 792 458 m/s [lähde](https://fi
 
 ## Lähteet
 
-
+chatGPT. promptilla: "valon nopeus: 299 792 458 m/s, kuinka pitkän matkan valo kulkee ajassa 522 µs?"
 
 Cornelius. 4.1.2022. Decode 433.92 MHz weather station data. https://www.onetransistor.eu/2022/01/decode-433mhz-ask-signal.html
+
+García, M. pip vs pipx: The Definitive Guide to Python Package Management. https://medium.com/@martia_es/pip-vs-pipx-the-definitive-guide-to-python-package-management-a7039a5c62fa
 
 hubmartin. 18.1.2019. Universal Radio Hacker SDR Tutorial on 433 MHz radio plugs. https://www.youtube.com/watch?v=sbqMqb6FVMY&t=199s
 
