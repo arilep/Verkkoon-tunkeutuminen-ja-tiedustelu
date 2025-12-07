@@ -24,7 +24,7 @@
 
 Mielestäni olen melko hyvin varautunut urkinnan varalta. Tällä hetkellä päivittäin mukana kulkevia RFID tuotteita, joita kannan mukanani ovat ainoastaan puhelin, plussa-kortti, ajokortti ja pankkikortti. Avaimissa ei ole RFID tekniikkaa, eikä minulla ole kulkulätkiä tai muita älylaitteita.
 
-Kaikkia kortteja ja puhelinta säilytän nahkasta valmistetussa puhelinkotelossa, jossa on RFID-suojaus. Puhelimeni NFC ominaisuutta käytän todella harvoin, ja tällöinkin otan sen pois käytöstä heti kun en tarvitse sitä enää.
+Kaikkia kortteja ja puhelinta säilytän puhelinkotelossa, jossa on RFID-suojaus. Puhelimeni NFC ominaisuutta käytän todella harvoin, ja tällöinkin otan sen pois käytöstä heti kun en tarvitse sitä enää.
 
 ## b) Tutustu APDU komentojen rakenteeseen (voit käyttää tekoälyä tutustumiseen)
 
